@@ -1,6 +1,8 @@
 
 # CT Scan Contour Map Visualization
 
+[Link to GitHub Pages](https://jravikumar97.github.io/CT-Scan-Contour-Map/)
+
 ## Overview
 
 This project is a **CT Scan Contour Map Visualization** built using **D3.js**. It loads CT scan data from a CSV file and displays a color-coded contour map based on the pixel intensity values in the scan. The visualization also includes an interactive brush slider, which allows users to dynamically adjust the range of pixel intensities displayed.
