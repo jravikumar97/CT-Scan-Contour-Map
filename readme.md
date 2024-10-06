@@ -45,7 +45,7 @@ To run this project locally, you need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CT-Scan-Contour-Map.git
+   git clone https://github.com/jravikumar97/CT-Scan-Contour-Map.git
    cd CT-Scan-Contour-Map
    ```
 
